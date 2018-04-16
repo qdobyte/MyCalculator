@@ -384,6 +384,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         tools:background="@android:color/background_dark"
-        tools:textColor="@android:color/background_light"
+        tools:textColor="#d7d5d5"
         tools:textSize="36sp" />
 </android.support.constraint.ConstraintLayout>
